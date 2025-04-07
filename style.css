@@ -1,0 +1,33 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+.main{
+  width: 100%;
+  background-image: url(images/dark-surface-with-blank-space-fast-food-menu.jpg);
+  background-position: center;
+  background-size: cover;
+  height: 150vh;
+}
+
+.navbar{
+  width: 1200px;
+  height: 75px;
+  margin: auto;
+}
+
+.icon{
+  width: 200px;
+  float: left;
+  height: 70px;
+}
+
+.logo{
+  color: #ff7200;
+  font-size: 35px;
+  font-family: Arial, Helvetica, sans-serif;
+  padding-left: 20px;
+  float: left;
+  padding: 10px;
+}

@@ -141,3 +141,26 @@ ul li a:hover{
   color: #ff7200;
   font-size: 60px;
 }
+
+.content .join-btn{
+  width: 160px;
+  height: 40px;
+  background: #ff7200;
+  border: none;
+  margin-bottom: 10px;
+  margin-left: 20px;
+  font-size: 16px;
+  border-radius: 10px;
+  cursor: pointer;
+  transition: 0.4s ease;
+}
+
+.content .join-btn a{
+  text-decoration: none;
+  color: black;
+  transition: 0.3s ease;
+}
+
+.join-btn:hover{
+  background-color: white;
+}
